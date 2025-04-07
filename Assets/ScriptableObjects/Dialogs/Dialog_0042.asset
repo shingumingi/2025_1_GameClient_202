@@ -17,7 +17,7 @@ MonoBehaviour:
   text: "\uB098\uBB47\uC78E\uC73C\uB85C \uADF8\uB987\uC744 \uB9CC\uB4E4\uC5B4 \uBB3C\uC744
     \uB2F4\uC558\uC2B5\uB2C8\uB2E4. \uC870\uC2EC\uC2A4\uB7FD\uAC8C \uB178\uC778\uC5D0\uAC8C
     \uB3CC\uC544\uAC11\uB2C8\uB2E4."
-  nextild: 43
+  nextld: 43
   choices: []
   portrait: {fileID: 0}
   portraitPath: Characters/Explorer

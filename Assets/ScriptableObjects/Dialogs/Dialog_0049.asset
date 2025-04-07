@@ -16,7 +16,7 @@ MonoBehaviour:
   characterName: "\uB9C8\uC744 \uC8FC\uBBFC"
   text: "\uC5B4\uC11C \uC624\uC138\uC694! \uC704\uD5D8\uD55C \uC5EC\uC815\uC774\uC5C8\uACA0\uB124\uC694.
     \uC6B0\uB9AC \uB9C8\uC744\uC5D0\uC11C \uC26C\uC5C8\uB2E4 \uAC00\uC138\uC694."
-  nextild: 19
+  nextld: 50
   choices: []
   portrait: {fileID: 0}
   portraitPath: Characters/Villager

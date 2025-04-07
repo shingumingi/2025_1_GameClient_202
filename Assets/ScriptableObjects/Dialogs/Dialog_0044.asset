@@ -17,7 +17,7 @@ MonoBehaviour:
   text: "\uC57D\uC18D\uB300\uB85C \uC9C0\uB3C4\uB97C \uC8FC\uACA0\uB124. \uD558\uC9C0\uB9CC
     \uC774 \uC9C0\uB3C4\uB294 \uC624\uB798\uB418\uC5B4\uC11C \uC880 \uBD88\uC644\uC804\uD558\uB2E4\uB124.
     \uC870\uC2EC\uD574\uC11C \uAC00\uAC8C."
-  nextild: 17
+  nextld: 45
   choices: []
   portrait: {fileID: 0}
   portraitPath: Characters/OldMan
