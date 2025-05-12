@@ -705,14 +705,14 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4dfeb5b91b0f26e4ba5e9dde1ef1d937, type: 2}
   - {fileID: 11400000, guid: 0761c364800eb4844acb35d46d7be755, type: 2}
   - {fileID: 11400000, guid: 0e091ddabd9fcc6428b2afefaffb62c3, type: 2}
-  - {fileID: 11400000, guid: 4b54223f7ac44864ebb421060260e84d, type: 2}
-  - {fileID: 11400000, guid: 4dfeb5b91b0f26e4ba5e9dde1ef1d937, type: 2}
-  - {fileID: 11400000, guid: 0761c364800eb4844acb35d46d7be755, type: 2}
+  - {fileID: 11400000, guid: 81eb6ea1125841f4c88501c6a34da32e, type: 2}
+  - {fileID: 11400000, guid: 1071bf7f7d09711468ab37a56c8cdfc4, type: 2}
+  - {fileID: 11400000, guid: aaca62768511bf0408b592f141a8358b, type: 2}
   - {fileID: 11400000, guid: 0e091ddabd9fcc6428b2afefaffb62c3, type: 2}
   - {fileID: 11400000, guid: 4b54223f7ac44864ebb421060260e84d, type: 2}
   - {fileID: 11400000, guid: 4dfeb5b91b0f26e4ba5e9dde1ef1d937, type: 2}
-  - {fileID: 11400000, guid: 0761c364800eb4844acb35d46d7be755, type: 2}
-  - {fileID: 11400000, guid: 0e091ddabd9fcc6428b2afefaffb62c3, type: 2}
+  - {fileID: 11400000, guid: 81eb6ea1125841f4c88501c6a34da32e, type: 2}
+  - {fileID: 11400000, guid: 1071bf7f7d09711468ab37a56c8cdfc4, type: 2}
   handCards: []
   discardCards: []
   cardPrefab: {fileID: 938137275617332288, guid: 8716ce55b67a5be42acf3cc130ff7c86,
@@ -1055,7 +1055,7 @@ GameObject:
   - component: {fileID: 1865470658}
   m_Layer: 3
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1292,7 +1292,7 @@ Transform:
   m_GameObject: {fileID: 1867939838}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.25, y: 3.77, z: 0}
+  m_LocalPosition: {x: 6.57, y: 3.77, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1306,9 +1306,9 @@ SceneRoots:
   - {fileID: 203844589}
   - {fileID: 1865470662}
   - {fileID: 1867939843}
-  - {fileID: 1163313844}
   - {fileID: 753996989}
   - {fileID: 914635895}
   - {fileID: 525001676}
   - {fileID: 1671504011}
   - {fileID: 1269327907}
+  - {fileID: 1163313844}

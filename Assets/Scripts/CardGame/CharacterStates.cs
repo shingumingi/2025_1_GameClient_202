@@ -76,7 +76,7 @@ public class CharacterStates : MonoBehaviour
         }
         if(manaText != null)
         {
-            manaText.text = $"{currentMana} / {manaText}";
+            manaText.text = $"{currentMana} / {maxMana}";
         }
     }
 }
